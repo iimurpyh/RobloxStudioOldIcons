@@ -1,0 +1,8 @@
+[Icon Theme]
+Name=Classic Icons
+Comment=Port of the old Roblox Studio Instance icons to the new format.
+Inherits=Roblox
+
+[standard]
+Size=16
+scale=1
